@@ -1,5 +1,4 @@
-.bold-text {
-    font-weight: bold;
-    font-size: 24px; /* optional */
-    color: #333;     /* optional */
+h {
+    color: blue;
+    background-color: black;
 }
